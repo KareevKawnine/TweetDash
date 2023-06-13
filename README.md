@@ -1,6 +1,7 @@
 # TweetDash
- A Live Twitter Scraping Bot with Dashboard made by AhmadulKawnine.
- 
+A Live Twitter Scraping Bot with Dashboard made by AhmadulKawnine.
+![tweetdash](https://github.com/KareevKawnine/TweetDash/assets/73062307/026d29ed-8bc3-4e6f-85a6-88706ae4b113)
+
 ## Acknowledgements
 
  - [MDN Web Docs](https://developer.mozilla.org/en-US/)
